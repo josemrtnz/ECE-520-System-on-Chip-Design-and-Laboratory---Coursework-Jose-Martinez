@@ -4,7 +4,7 @@
 ### Professor: Dr Shahnam Mirzaei
 
 
-###### All labs and project for this class are located here. This repository is intended for potential employers to look at to verify knowledge of SoC Design with FPGA.
+###### All labs and projects for this class are located here. This repository is intended for potential employers to look at to verify knowledge of SoC Design with FPGA.
 
 #### Course Description:
 ###### Introduction to system on chip design methodology that includes the study of ZYNQ and ARM architectures, AXI Interconnect, memory, real-time operating system (RTOS), peripheral interface and components, and contemporary high-density FPGAs. Lab: This laboratory course reinforces the system-on-chip design concept developed in the lecture course. It focuses on software hardware co-design and development and hardware verification of ZYNQ systems using Vivado software tools and ZYNQ development boards.
@@ -20,6 +20,8 @@
 | [Lab 5](google.com)  | N/A |
 | [Lab 6](google.com)  | N/A |
 | [Lab 7](google.com)  | N/A |
+
+#### Course Projects: 
 
 
 

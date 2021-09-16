@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Sat May 15 21:44:16 2021
+# Process ID: 15300
+# Current directory: D:/Labs/MiniProject_1/MiniProject_1.runs/MP1_BRAM_processing_system7_0_0_synth_1
+# Command line: vivado.exe -log MP1_BRAM_processing_system7_0_0.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source MP1_BRAM_processing_system7_0_0.tcl
+# Log file: D:/Labs/MiniProject_1/MiniProject_1.runs/MP1_BRAM_processing_system7_0_0_synth_1/MP1_BRAM_processing_system7_0_0.vds
+# Journal file: D:/Labs/MiniProject_1/MiniProject_1.runs/MP1_BRAM_processing_system7_0_0_synth_1\vivado.jou
+#-----------------------------------------------------------
+source MP1_BRAM_processing_system7_0_0.tcl -notrace
